@@ -1,6 +1,6 @@
 {
   "name": "@acedatacloud/acemusic-qwen-code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Create ACE Music songs and lyrics, upload reference audio, cover one owned track, blend two, and retrieve the original task.",
   "repository": "https://github.com/AceDataCloud/ACEMusicQwenCode",
